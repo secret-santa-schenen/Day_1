@@ -1,0 +1,23 @@
+body {
+    /* Create a blue gradient background */
+    background: linear-gradient(to right, skyblue, #00b4db, #0083b0);
+    /* Set the height and width to 100% of the viewport */
+    height: 100vh;
+    width: 100vw;
+    /* Remove any margin or padding */
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    /* Use a playful font from Google Fonts */
+    font-family: 'Pacifico', cursive;
+    /* Set the font size to 10vw */
+    font-size: 10vw;
+    /* Set the text color to white */
+    color: white;
+    /* Center the text horizontally and vertically */
+    text-align: center;
+    line-height: 100vh;
+  }
+  
